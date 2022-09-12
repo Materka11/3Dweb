@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/3Dweb/static/css/main.f6b0f08d.css",
+    "main.js": "/3Dweb/static/js/main.9c8de973.js",
+    "static/js/787.dc9e0f9c.chunk.js": "/3Dweb/static/js/787.dc9e0f9c.chunk.js",
+    "static/media/pulpit.png": "/3Dweb/static/media/pulpit.370e4fab0f006d600841.png",
+    "static/media/hologramEffectMain.mp3": "/3Dweb/static/media/hologramEffectMain.b07bb31e8715d77836a6.mp3",
+    "static/media/screenMyWeb.png": "/3Dweb/static/media/screenMyWeb.ed5eab07bf458b304de8.png",
+    "static/media/Eren Tatakae Sound.mp3": "/3Dweb/static/media/Eren Tatakae Sound.44a6a2003e49d97d9518.mp3",
+    "static/media/hologramEffectEren.mp3": "/3Dweb/static/media/hologramEffectEren.b081496bbab75a86cb3a.mp3",
+    "static/media/sci-fi-voiceclip-896-sound-effect-53424073.mp3": "/3Dweb/static/media/sci-fi-voiceclip-896-sound-effect-53424073.dda64e9f96d204b00df4.mp3",
+    "index.html": "/3Dweb/index.html",
+    "main.f6b0f08d.css.map": "/3Dweb/static/css/main.f6b0f08d.css.map",
+    "main.9c8de973.js.map": "/3Dweb/static/js/main.9c8de973.js.map",
+    "787.dc9e0f9c.chunk.js.map": "/3Dweb/static/js/787.dc9e0f9c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6b0f08d.css",
+    "static/js/main.9c8de973.js"
+  ]
+}
