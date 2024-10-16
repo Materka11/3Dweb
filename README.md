@@ -40,5 +40,3 @@ npm start
 ## Contribution
 Feel free to fork the repository and submit pull requests for improvements or bug fixes.
 
-## License
-This project is open-source and freely available for use and modification.
